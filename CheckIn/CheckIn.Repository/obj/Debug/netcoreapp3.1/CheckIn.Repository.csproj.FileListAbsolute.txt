@@ -1,0 +1,9 @@
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/bin/Debug/netcoreapp3.1/CheckIn.Repository.deps.json
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/bin/Debug/netcoreapp3.1/CheckIn.Repository.dll
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/bin/Debug/netcoreapp3.1/CheckIn.Repository.pdb
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/obj/Debug/netcoreapp3.1/CheckIn.Repository.csproj.CoreCompileInputs.cache
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/obj/Debug/netcoreapp3.1/CheckIn.Repository.AssemblyInfoInputs.cache
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/obj/Debug/netcoreapp3.1/CheckIn.Repository.AssemblyInfo.cs
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/obj/Debug/netcoreapp3.1/CheckIn.Repository.dll
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/obj/Debug/netcoreapp3.1/CheckIn.Repository.pdb
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Repository/obj/Debug/netcoreapp3.1/CheckIn.Repository.csprojAssemblyReference.cache

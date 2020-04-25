@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIn.WebApi", "CheckIn.WebApi\CheckIn.WebApi.csproj", "{8F7555C2-FA10-4793-B063-36F582A984A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIn.Service", "CheckIn.Service\CheckIn.Service.csproj", "{04BF399D-7014-4354-A2E0-A59EA246BB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIn.Common", "CheckIn.Common\CheckIn.Common.csproj", "{BD3EC462-24D8-42CA-9126-DA997703DE17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIn.Repository", "CheckIn.Repository\CheckIn.Repository.csproj", "{DC760BAF-6B3E-4552-AE16-34763DF216E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7555C2-FA10-4793-B063-36F582A984A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7555C2-FA10-4793-B063-36F582A984A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7555C2-FA10-4793-B063-36F582A984A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7555C2-FA10-4793-B063-36F582A984A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BF399D-7014-4354-A2E0-A59EA246BB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BF399D-7014-4354-A2E0-A59EA246BB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BF399D-7014-4354-A2E0-A59EA246BB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BF399D-7014-4354-A2E0-A59EA246BB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3EC462-24D8-42CA-9126-DA997703DE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3EC462-24D8-42CA-9126-DA997703DE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3EC462-24D8-42CA-9126-DA997703DE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3EC462-24D8-42CA-9126-DA997703DE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC760BAF-6B3E-4552-AE16-34763DF216E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC760BAF-6B3E-4552-AE16-34763DF216E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC760BAF-6B3E-4552-AE16-34763DF216E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC760BAF-6B3E-4552-AE16-34763DF216E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

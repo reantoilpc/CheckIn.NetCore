@@ -1,0 +1,9 @@
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/bin/Debug/netcoreapp3.1/CheckIn.Service.deps.json
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/bin/Debug/netcoreapp3.1/CheckIn.Service.dll
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/bin/Debug/netcoreapp3.1/CheckIn.Service.pdb
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/obj/Debug/netcoreapp3.1/CheckIn.Service.csprojAssemblyReference.cache
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/obj/Debug/netcoreapp3.1/CheckIn.Service.csproj.CoreCompileInputs.cache
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/obj/Debug/netcoreapp3.1/CheckIn.Service.AssemblyInfoInputs.cache
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/obj/Debug/netcoreapp3.1/CheckIn.Service.AssemblyInfo.cs
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/obj/Debug/netcoreapp3.1/CheckIn.Service.dll
+/Users/Rayman/GitHub/CheckIn.NetCore/CheckIn/CheckIn.Service/obj/Debug/netcoreapp3.1/CheckIn.Service.pdb

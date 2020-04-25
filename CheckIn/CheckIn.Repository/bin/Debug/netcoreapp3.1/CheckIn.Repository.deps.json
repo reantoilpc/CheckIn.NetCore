@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CheckIn.Repository/1.0.0": {
+        "runtime": {
+          "CheckIn.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckIn.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
